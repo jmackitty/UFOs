@@ -5,9 +5,10 @@ The purpose of this project analysis was to design an HTML page where we could f
 
 ## Results
 
-Someone who is interested in UFO data might use the new webpage by entering a date, city, state, country, and/or shape as the search criteria. The user would just need to enter the information in the same format as the default value on the page and if there is any data available from teh criteria they chose, the search results will appear.
+Someone who is interested in UFO data might use the new webpage by entering a date, city, state, country, and/or shape as the search criteria. The user would just need to enter the information in the same format as the placeholder value on the page and if there is any data available from the criteria they chose, the search results will appear.
 
 <img width="706" alt="UFO Sightings Main Page" src="https://user-images.githubusercontent.com/99056132/175797181-0da4b02d-4dd2-47a6-88ba-b10590d34565.png">
+<img width="707" alt="UFO Sightings Main Page Unfiltered" src="https://user-images.githubusercontent.com/99056132/175797866-2c5ce8be-02eb-4b58-97f7-2f8ee381583c.png">
 
 ## Summary
 
